@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: ce5d0f8b-89ae-4fec-9bfd-2dfc666936fd
+      url: 'https://gabesekeres.com'

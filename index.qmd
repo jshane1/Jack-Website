@@ -1,0 +1,42 @@
+---
+title: "Gabe Sekeres"
+image: headshot.jpeg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gsekeres@stanford.edu
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/GabeSekeres
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gabriel-sekeres-0526aa174
+    - icon: github
+      text: GitHub
+      href: https://github.com/gsekeres
+---
+I'm a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I work with Professor [Laurence Baker](https://healthpolicy.fsi.stanford.edu/people/laurence_c_baker) and Professor [Eric Sun](https://profiles.stanford.edu/eric-sun) on Health Economics.
+
+I graduated from Haverford College in 2022, where I majored in Economics and Mathematics, and completed enough Political Science courses for a major if I had written a thesis. My senior thesis was [The Effects of Communication on a Middle Equilibrium in Prisoner's Dilemma](/gabe_sekeres_thesis.pdf).
+
+My research interests are Political Economy theory, specifically using game theory to analyze institutions and those who staff them. I'm currently working on a project about plea bargains under closed-file _Brady_&nbsp; regimes. I'm always down to talk about it, so feel free to reach out!
+
+In my free time, I enjoy watching long video essays and taking pictures of bugs on 35mm film. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
